@@ -1,0 +1,17 @@
+{
+  "name": "15.unit-tests-javascript",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "solutions.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.3.1",
+    "mocha": "^11.7.1"
+  }
+}
